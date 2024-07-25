@@ -1,23 +1,20 @@
-<h1 align="center">Hello 👋, I'm Sushant Gangwar</h1>
-<h3 align="center">A passionate Machine Learning and Data Scientist from New Delhi,India</h3>
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" align=right>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushant20022&label=Profile%20views&color=0e75b6&style=flat" alt="sushant20022" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushant20022" alt="sushant20022" /></a> </p>
+<h1 align="center">Hey There 👋, I'm Sushant Gangwar</h1>
+<h3 align="center">A passionate Machine Learning and Data Scientist from New Delhi,India</h3>
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" align="right" width="400">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushant20022&label=Profile%20views&color=0e75b6&style=flat" alt="sushant20022" /> </p>
 
 - 🔭 I’m currently working on [Calories Burnt Predictor Web APP](https://github.com/Sushant20022/Calories-Burnt-Predictor)
 
-- 🌱 I’m currently learning **TensorFlow , Machine Learining Algorithms**
+- 🌱 I’m currently learning **TensorFlow,ML Algos**
 
-- 👯 I’m looking to collaborate on **Data Science, Data Analysis projects**
+- 👯 I’m looking to collaborate on **Data Science/Analysis,ML**
 
-- 💬 Ask me about **C++ , Pyhton , DSA , Machine Learning**
+- 💬 Ask me about **C++,Python,DSA,Machine Learning**
 
 - 📫 Reach me through **gangwarsushant776@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1t5L8bXBnpXQ8kkBqOl9IWljSBPABTYDJ/view?usp=drive_link](https://drive.google.com/file/d/1t5L8bXBnpXQ8kkBqOl9IWljSBPABTYDJ/view?usp=drive_link)
-
-- ⚡ Fun fact **Didn't Realised that Deleting Repositories from Github Resets the number of Contributions from Profile too 🥲**
+- ⚡ Fun fact **The best thing about a boolean is even if you are wrong, you are only off by a bit.🫠**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,5 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushant20022&show_icons=true&locale=en&layout=compact" alt="sushant20022" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushant20022&show_icons=true&locale=en" alt="sushant20022" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushant20022&" alt="sushant20022" /></p>
